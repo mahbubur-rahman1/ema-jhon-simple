@@ -1,0 +1,19 @@
+.header{
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+    align-items: center;
+
+}
+.header div  a{
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 30px;
+    
+}
+.header div  a:hover{
+    color: rgb(249, 106, 3);
+}
