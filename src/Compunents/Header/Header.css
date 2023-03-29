@@ -2,9 +2,11 @@
     background-color: #1C2B35;
     display: flex;
     justify-content: space-between;
+    padding: 10px;
     padding-left: 80px;
     padding-right: 80px;
     align-items: center;
+    
 
 }
 .header div  a{
